@@ -17,3 +17,16 @@ The project consist on three parts:
 
 ## Outcomes
 
+Here you can check some outcomes of the project. However, all the results anre contained in the files; feel free to check them out
+
+Entity Relationship Diagram 
+
+![Image3.png](Images/Image3.png)
+
+Bar chart of average salary by title
+
+![Image2.png](Images/Image2.png)
+
+Histogram fo salary ranges from employees
+
+![Image1.png](Images/Image1.png)
