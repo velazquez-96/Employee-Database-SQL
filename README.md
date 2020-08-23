@@ -17,7 +17,7 @@ The project consist on three parts:
 
 ## Outcomes
 
-Here you can check some outcomes of the project. However, all the results anre contained in the files; feel free to check them out
+Here you can check some outcomes of the project. However, all the results are contained in the files; feel free to check them out
 
 Entity Relationship Diagram 
 
